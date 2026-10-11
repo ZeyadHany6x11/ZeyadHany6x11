@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./header.svg" alt="Zeyad Hany, Machine Learning Engineer" width="100%" />
+<img src="./assets/header.svg" alt="Zeyad Hany, Machine Learning Engineer" width="100%" />
 
 <br />
 
@@ -14,17 +14,17 @@ Currently finishing a B.Sc. in Machine Learning and taking on remote AI/ML work.
 
 <br />
 
-<img src="./stats.svg" alt="Key numbers" width="100%" />
+<img src="./assets/stats.svg" alt="Key numbers" width="100%" />
 
 <br />
 
-<img src="./skills.svg" alt="Skills" width="100%" />
+<img src="./assets/skills.svg" alt="Skills" width="100%" />
 
 </div>
 
 <br />
 
-<img src="./divider.svg" width="100%" alt="" />
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 <br />
 
@@ -48,7 +48,7 @@ Currently finishing a B.Sc. in Machine Learning and taking on remote AI/ML work.
 
 <br />
 
-<img src="./divider.svg" width="100%" alt="" />
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 <br />
 
@@ -179,7 +179,7 @@ GPA 3.3 / 4.0, graduating June 2027. Competitive programmer (ECPC) with a strong
 
 <br />
 
-<img src="./divider.svg" width="100%" alt="" />
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 <br />
 
@@ -196,6 +196,6 @@ Open to remote AI/ML engineering, model evaluation, and data work.
 
 <br /><br />
 
-<img src="./divider.svg" width="100%" alt="" />
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 </div>
