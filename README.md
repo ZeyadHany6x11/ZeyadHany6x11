@@ -1,175 +1,201 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:5b21b6,100:06b6d4&height=240&section=header&text=Zeyad%20Hany&fontSize=60&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Machine%20Learning%20Engineer&descSize=22&descAlignY=60&descColor=e0f2fe" alt="Zeyad Hany" width="100%" />
-
-<a href="https://github.com/ZeyadHany6x11">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=720&height=40&lines=Building+and+evaluating+machine+learning+models;Turning+messy+data+into+reliable+predictions;Shipping+RAG+systems+grounded+in+real+documents;ECPC+competitive+programmer+%7C+C%2B%2B+and+Python" alt="Typing animation" />
-</a>
+<img src="./assets/header.svg" alt="Zeyad Hany, Machine Learning Engineer" width="100%" />
 
 <br />
 
-[![Email](https://img.shields.io/badge/Email-zeyad.h6x11@gmail.com-0f172a?style=for-the-badge&logo=gmail&logoColor=38bdf8)](mailto:zeyad.h6x11@gmail.com)
-![Location](https://img.shields.io/badge/Menofia,_Egypt-0f172a?style=for-the-badge&logo=googlemaps&logoColor=38bdf8)
-![Class of 2027](https://img.shields.io/badge/B.Sc._ML-Class_of_2027-0f172a?style=for-the-badge&logo=academia&logoColor=38bdf8)
+**[Toolbox](#toolbox)** &nbsp;&nbsp;|&nbsp;&nbsp; **[Projects](#projects)** &nbsp;&nbsp;|&nbsp;&nbsp; **[Experience](#experience)** &nbsp;&nbsp;|&nbsp;&nbsp; **[Education](#education)** &nbsp;&nbsp;|&nbsp;&nbsp; **[Contact](#contact)**
+
+<br />
+
+I build, train, and evaluate machine learning models on real data,<br />
+and I treat preprocessing, honest metrics, and documentation as part of the model.<br />
+Currently finishing a B.Sc. in Machine Learning and taking on remote AI/ML work.
+
+<br />
+
+<img src="./assets/stats.svg" alt="Key numbers" width="100%" />
+
+<br />
+
+<img src="./assets/skills.svg" alt="Skills" width="100%" />
 
 </div>
 
 <br />
 
-## `> whoami`
-
-```python
-class Zeyad:
-    role       = "Machine Learning Engineer"
-    education  = "B.Sc. Machine Learning, Menofia National University (GPA 3.3/4.0)"
-    graduating = "June 2027"
-    languages  = ["Python", "C++", "SQL"]
-    frameworks = ["PyTorch", "TensorFlow", "Scikit-learn"]
-    mindset    = "Clean data, honest evaluation, clear documentation"
-    works      = "Remote, asynchronous, self-directed"
-    open_to    = ["ML engineering", "AI output evaluation", "Data work"]
-```
-
-I build, train, and evaluate machine learning models on real-world data, and I care about the parts that make ML trustworthy: preprocessing that holds up, metrics that mean something, and documentation the next person can actually use.
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 <br />
 
-## `> stack`
+<h2 align="center" id="toolbox">Toolbox</h2>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,sklearn,numpy,pandas,sqlite,flask,react,ts,vite&perline=12" alt="Core stack" />
+<img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,sklearn,numpy,pandas,sqlite,flask,react,ts,git,github,linux&perline=14" alt="Tools" />
 
 <br /><br />
 
-<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white" />
-<img src="https://img.shields.io/badge/Seaborn-3f7f93?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-<img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white" />
-<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<table>
+  <tr>
+    <td align="center" width="33%"><b>Machine Learning</b><br /><sub>Scikit-learn · TensorFlow · PyTorch<br />Deep Learning · Feature Engineering<br />Model Evaluation</sub></td>
+    <td align="center" width="33%"><b>Data</b><br /><sub>Python · NumPy · Pandas · SQL<br />Data Preprocessing · Cleaning<br />Matplotlib · Seaborn</sub></td>
+    <td align="center" width="33%"><b>Engineering</b><br /><sub>Python · C++ · Algorithms<br />Git &amp; GitHub · Linux<br />Competitive Programming (ECPC)</sub></td>
+  </tr>
+</table>
 
 </div>
 
 <br />
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h4>Machine Learning</h4>
-      <sub>Machine Learning · Deep Learning<br />Feature Engineering · Model Evaluation<br />Scikit-learn · TensorFlow · PyTorch</sub>
-    </td>
-    <td width="33%" valign="top">
-      <h4>Data</h4>
-      <sub>Data Preprocessing · Cleaning<br />NumPy · Pandas · SQL<br />Matplotlib · Seaborn</sub>
-    </td>
-    <td width="33%" valign="top">
-      <h4>Engineering</h4>
-      <sub>Python · C++ · Algorithms<br />Git &amp; GitHub · Linux<br />Competitive Programming (ECPC)</sub>
-    </td>
-  </tr>
-</table>
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 <br />
 
-## `> projects`
+<h2 align="center" id="projects">Projects</h2>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>RAG Chatbot</h3>
-      <p>Retrieval-augmented chatbot that answers questions using custom documents as context. Combines document preprocessing, semantic search, retrieval, and LLM-based generation for grounded, relevant answers.</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square" />
-      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
-      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-    </td>
-    <td width="50%" valign="top">
-      <h3>Hybrid Clustering Analyzer</h3>
-      <p>Interactive clustering workbench for exploring dataset patterns. Runs K-Means, DBSCAN, and Gaussian Mixture Models, visualizes the results, and ranks models with standard clustering metrics.</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>AI Resume Analyzer</h3>
-      <p>Analyzes resume content and gives feedback on job relevance and ATS compatibility through text extraction, keyword matching, resume scoring, and structured feedback generation.</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/NLP-0f172a?style=flat-square" />
-    </td>
-    <td width="50%" valign="top">
-      <h3>Superstore Sales Report System</h3>
-      <p>End-to-end sales analysis: data cleaning, feature engineering, a Logistic Regression model that classifies high-sales orders, and a Power BI dashboard for reporting.</p>
-      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
-      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-    </td>
-  </tr>
-</table>
+<p align="center"><sub>Click a project to expand it</sub></p>
+
+<details>
+<summary><b>RAG Chatbot</b> &nbsp;·&nbsp; answers grounded in your own documents</summary>
 
 <br />
 
-## `> experience`
+A retrieval-augmented generation chatbot that answers questions using custom documents as context. It combines document preprocessing, semantic search, retrieval, and LLM-based response generation to produce relevant, grounded answers.
 
-```text
-07/2025 ─ 12/2025   Machine Learning Engineer Intern
-                    Digital Egypt Pioneers Initiative  ·  Hybrid (Online + Menoufia University)
-```
+- Chunks and embeds documents, then retrieves the closest matches for each question
+- Passes the retrieved context to the LLM so answers stay tied to the source material
+- Shows the source chunks behind each answer
 
-- Completed machine learning and AI training through online sessions and in-person workshops
-- Trained and evaluated ML models on real-world datasets using Python, Pandas, and NumPy
+![Python](https://img.shields.io/badge/Python-0b1124?style=flat-square&logo=python&logoColor=67e8f9)
+![FAISS](https://img.shields.io/badge/FAISS-0b1124?style=flat-square&logo=meta&logoColor=a78bfa)
+![Sentence Transformers](https://img.shields.io/badge/Sentence_Transformers-0b1124?style=flat-square&logo=huggingface&logoColor=f0abfc)
+![OpenAI](https://img.shields.io/badge/OpenAI-0b1124?style=flat-square&logo=openai&logoColor=67e8f9)
+![Streamlit](https://img.shields.io/badge/Streamlit-0b1124?style=flat-square&logo=streamlit&logoColor=a78bfa)
+
+<br />
+
+</details>
+
+<details>
+<summary><b>Hybrid Clustering Analyzer</b> &nbsp;·&nbsp; three algorithms, one ranked comparison</summary>
+
+<br />
+
+An interactive clustering analysis tool for exploring patterns in datasets with unsupervised learning. It groups similar data points, visualizes the results, and makes patterns easier to interpret.
+
+- Runs K-Means, DBSCAN, and Gaussian Mixture Models on the same preprocessed data
+- Detects the K-Means cluster count with an elbow-method heuristic
+- Ranks models by Silhouette, Davies-Bouldin, and Calinski-Harabasz scores
+- Flask and scikit-learn API with a React and TypeScript interface
+
+![Python](https://img.shields.io/badge/Python-0b1124?style=flat-square&logo=python&logoColor=67e8f9)
+![Flask](https://img.shields.io/badge/Flask-0b1124?style=flat-square&logo=flask&logoColor=a78bfa)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0b1124?style=flat-square&logo=scikitlearn&logoColor=f0abfc)
+![React](https://img.shields.io/badge/React-0b1124?style=flat-square&logo=react&logoColor=67e8f9)
+![TypeScript](https://img.shields.io/badge/TypeScript-0b1124?style=flat-square&logo=typescript&logoColor=a78bfa)
+
+<br />
+
+</details>
+
+<details>
+<summary><b>AI Resume Analyzer</b> &nbsp;·&nbsp; ATS-aware resume feedback</summary>
+
+<br />
+
+A Python application that analyzes resume content and gives feedback to improve job relevance and ATS compatibility.
+
+- Text extraction from resumes
+- Keyword matching against job requirements
+- Resume scoring and structured feedback generation
+
+![Python](https://img.shields.io/badge/Python-0b1124?style=flat-square&logo=python&logoColor=67e8f9)
+![NLP](https://img.shields.io/badge/NLP-0b1124?style=flat-square&logoColor=a78bfa)
+
+<br />
+
+</details>
+
+<details>
+<summary><b>Superstore Sales Report System</b> &nbsp;·&nbsp; from raw orders to a BI dashboard</summary>
+
+<br />
+
+An end-to-end sales analysis workflow: data cleaning, feature engineering, a Logistic Regression classifier that flags high-sales orders, and a Power BI dashboard for business reporting.
+
+- Cleans 5,901 order records and engineers features such as shipping days and sales per item
+- Evaluates the model with a classification report, confusion matrix, and ROC curve
+- Delivers results in a Power BI dashboard
+
+![Pandas](https://img.shields.io/badge/Pandas-0b1124?style=flat-square&logo=pandas&logoColor=67e8f9)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0b1124?style=flat-square&logo=scikitlearn&logoColor=a78bfa)
+![Jupyter](https://img.shields.io/badge/Jupyter-0b1124?style=flat-square&logo=jupyter&logoColor=f0abfc)
+![Power BI](https://img.shields.io/badge/Power_BI-0b1124?style=flat-square&logo=powerbi&logoColor=67e8f9)
+
+<br />
+
+</details>
+
+<br />
+
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+<br />
+
+<h2 align="center" id="experience">Experience</h2>
+
+<details open>
+<summary><b>Machine Learning Engineer Intern</b> &nbsp;·&nbsp; Digital Egypt Pioneers Initiative &nbsp;·&nbsp; <sub>Jul 2025 – Dec 2025</sub></summary>
+
+<br />
+
+Hybrid program: online sessions and in-person workshops at Menoufia University.
+
+- Completed machine learning and AI training, learning preprocessing, cleaning, and analysis with Python, Pandas, and NumPy
+- Trained and evaluated machine learning models on real-world datasets
 - Implemented preprocessing techniques that cleaned and managed datasets, improving model accuracy
 - Ran statistical analyses that validated model accuracy, leading to **20% better predictive insights** for client projects
 - Documented processes, models, and results, improving team efficiency through better knowledge sharing
 
 <br />
 
-## `> education`
-
-```text
-09/2023 ─ Present   B.Sc. in Machine Learning
-                    Menofia National University  ·  GPA 3.3 / 4.0  ·  Expected June 2027
-```
+</details>
 
 <br />
 
-## `> strengths`
+<h2 align="center" id="education">Education</h2>
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <b>Machine Learning Mindset</b><br />
-      <sub>Building, training, evaluating, and improving models on real-world datasets.</sub>
-    </td>
-    <td width="33%" valign="top">
-      <b>Problem Solving</b><br />
-      <sub>Strong C++ and competitive programming background in algorithmic problem solving.</sub>
-    </td>
-    <td width="33%" valign="top">
-      <b>Analytical Thinking</b><br />
-      <sub>Cleaning, analyzing, and interpreting data with Python, Pandas, NumPy, Matplotlib, and Seaborn.</sub>
-    </td>
-  </tr>
-</table>
+<details open>
+<summary><b>B.Sc. in Machine Learning</b> &nbsp;·&nbsp; Menofia National University &nbsp;·&nbsp; <sub>Sep 2023 – Present</sub></summary>
 
 <br />
+
+GPA 3.3 / 4.0, graduating June 2027. Competitive programmer (ECPC) with a strong C++ and algorithmic foundation.
+
+<br />
+
+</details>
+
+<br />
+
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+<br />
+
+<h2 align="center" id="contact">Contact</h2>
 
 <div align="center">
 
-## `> contact`
-
 Open to remote AI/ML engineering, model evaluation, and data work.
 
-[![Email me](https://img.shields.io/badge/Email_me-zeyad.h6x11@gmail.com-38bdf8?style=for-the-badge&logo=gmail&logoColor=0f172a)](mailto:zeyad.h6x11@gmail.com)
+<br />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,55:5b21b6,100:0f172a&height=140&section=footer" width="100%" alt="" />
+<a href="mailto:zeyad.h6x11@gmail.com"><img src="https://img.shields.io/badge/Email-zeyad.h6x11@gmail.com-67e8f9?style=for-the-badge&logo=gmail&logoColor=0b1124" alt="Email" /></a>
+<a href="https://github.com/ZeyadHany6x11"><img src="https://img.shields.io/badge/GitHub-ZeyadHany6x11-a78bfa?style=for-the-badge&logo=github&logoColor=0b1124" alt="GitHub" /></a>
+
+<br /><br />
+
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 </div>
