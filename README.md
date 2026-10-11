@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.svg" alt="Zeyad Hany, Machine Learning Engineer" width="100%" />
+<img src="./header.svg" alt="Zeyad Hany, Machine Learning Engineer" width="100%" />
 
 <br />
 
